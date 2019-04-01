@@ -10,5 +10,5 @@ Positive vs. Negative
 
 Repository file descriptions:
 
-perceptlearn.py - a python script to learn from the training data and save the model. 
+perceptlearn.py - a python script to learn from the training data and save the model.  
 perceptclassify.py - a python script to classify reviews from the saved model.
